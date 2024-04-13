@@ -1,0 +1,2 @@
+# Property-Value-Predictor-XGBoost-Random-Forest-and-Linear-Regression
+This project aims to predict real estate values using XGBoost, Random Forest, and Linear Regression. Cross-validation ensures model performance without overfitting. Hyperparameter tuning with methods like RandomizedSearchCV optimizes each algorithm. Using a dataset of relevant property features, we create an accurate predictor.
